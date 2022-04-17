@@ -1,7 +1,8 @@
 ﻿int n = 9;
 int i = 1;
-while (i <= n)
+while (i < n)
 {
-    Console.Write($"{i*i}, ");
+    Console.Write($"{i * i}, ");
     i++;
 }
+Console.WriteLine($"{i * i}.");
