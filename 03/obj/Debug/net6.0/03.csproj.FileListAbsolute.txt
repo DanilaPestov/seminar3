@@ -1,0 +1,15 @@
+/Users/pest/Desktop/seminar3/03/obj/Debug/net6.0/03.csproj.AssemblyReference.cache
+/Users/pest/Desktop/seminar3/03/obj/Debug/net6.0/03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pest/Desktop/seminar3/03/obj/Debug/net6.0/03.AssemblyInfoInputs.cache
+/Users/pest/Desktop/seminar3/03/obj/Debug/net6.0/03.AssemblyInfo.cs
+/Users/pest/Desktop/seminar3/03/obj/Debug/net6.0/03.csproj.CoreCompileInputs.cache
+/Users/pest/Desktop/seminar3/03/bin/Debug/net6.0/03
+/Users/pest/Desktop/seminar3/03/bin/Debug/net6.0/03.deps.json
+/Users/pest/Desktop/seminar3/03/bin/Debug/net6.0/03.runtimeconfig.json
+/Users/pest/Desktop/seminar3/03/bin/Debug/net6.0/03.dll
+/Users/pest/Desktop/seminar3/03/bin/Debug/net6.0/ref/03.dll
+/Users/pest/Desktop/seminar3/03/bin/Debug/net6.0/03.pdb
+/Users/pest/Desktop/seminar3/03/obj/Debug/net6.0/03.dll
+/Users/pest/Desktop/seminar3/03/obj/Debug/net6.0/ref/03.dll
+/Users/pest/Desktop/seminar3/03/obj/Debug/net6.0/03.pdb
+/Users/pest/Desktop/seminar3/03/obj/Debug/net6.0/03.genruntimeconfig.cache
