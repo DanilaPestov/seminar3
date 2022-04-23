@@ -1,0 +1,15 @@
+/Users/pest/Desktop/seminar3/HomeWork_lesson3/bin/Debug/net6.0/HomeWork_lesson3
+/Users/pest/Desktop/seminar3/HomeWork_lesson3/bin/Debug/net6.0/HomeWork_lesson3.deps.json
+/Users/pest/Desktop/seminar3/HomeWork_lesson3/bin/Debug/net6.0/HomeWork_lesson3.runtimeconfig.json
+/Users/pest/Desktop/seminar3/HomeWork_lesson3/bin/Debug/net6.0/HomeWork_lesson3.dll
+/Users/pest/Desktop/seminar3/HomeWork_lesson3/bin/Debug/net6.0/ref/HomeWork_lesson3.dll
+/Users/pest/Desktop/seminar3/HomeWork_lesson3/bin/Debug/net6.0/HomeWork_lesson3.pdb
+/Users/pest/Desktop/seminar3/HomeWork_lesson3/obj/Debug/net6.0/HomeWork_lesson3.csproj.AssemblyReference.cache
+/Users/pest/Desktop/seminar3/HomeWork_lesson3/obj/Debug/net6.0/HomeWork_lesson3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pest/Desktop/seminar3/HomeWork_lesson3/obj/Debug/net6.0/HomeWork_lesson3.AssemblyInfoInputs.cache
+/Users/pest/Desktop/seminar3/HomeWork_lesson3/obj/Debug/net6.0/HomeWork_lesson3.AssemblyInfo.cs
+/Users/pest/Desktop/seminar3/HomeWork_lesson3/obj/Debug/net6.0/HomeWork_lesson3.csproj.CoreCompileInputs.cache
+/Users/pest/Desktop/seminar3/HomeWork_lesson3/obj/Debug/net6.0/HomeWork_lesson3.dll
+/Users/pest/Desktop/seminar3/HomeWork_lesson3/obj/Debug/net6.0/ref/HomeWork_lesson3.dll
+/Users/pest/Desktop/seminar3/HomeWork_lesson3/obj/Debug/net6.0/HomeWork_lesson3.pdb
+/Users/pest/Desktop/seminar3/HomeWork_lesson3/obj/Debug/net6.0/HomeWork_lesson3.genruntimeconfig.cache
